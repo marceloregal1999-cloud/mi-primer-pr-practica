@@ -5,7 +5,7 @@ Este repositorio es un espacio de práctica para aprender el flujo de trabajo de
 ## ¿Qué es un Pull Request?
 
 Un Pull Request (PR) es una forma de proponer cambios a un repositorio. Permite que otras
-personas revisen tu codigo antes de que se combine con la rama principal.
+personas revisen tu código antes de que se combine con la rama principal.
 
 ## Pasos básicos
 
